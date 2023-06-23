@@ -21,7 +21,7 @@
   "homepage": "https://github.com/realprogrammer5000/doppelganger#readme",
   "dependencies": {
     "@capacitor/android": "^2.2.0",
-    "@capacitor/cli": "^2.2.0",
+    "@capacitor/cli": "^5.0.5",
     "@capacitor/core": "^2.2.0"
   }
 }
